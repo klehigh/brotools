@@ -11,4 +11,4 @@ A collection of scripts and tools for working with Bro.
 
 Repo TODO:
   - maybe I should add a Makefile to support installing stuff.
-  - I should probably add more tools to the plural repo name is valid.
+  - I should probably add more tools so the plural repo name is valid.
